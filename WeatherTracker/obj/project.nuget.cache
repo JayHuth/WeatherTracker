@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cmYG3cI9icSZ24EF6I2Ss03jZTk7ThpXc2z9H8DmVSM1WC8PEVNYp2NSMjthPSfUXswLtcIyqszEWunEmfQ5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayhu\\source\\repos\\WeatherTracker\\WeatherTracker\\WeatherTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayhu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
